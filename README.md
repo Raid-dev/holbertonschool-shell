@@ -1,1 +1,1 @@
-# holbertonschool-shell
+Repo holding Shell scripts
