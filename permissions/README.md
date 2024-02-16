@@ -15,3 +15,5 @@
 7-everybody | Adding execution permission to the owner, the group owner and the other users, to the file hello
 
 8-James_Bond | Setting no permission at all to the owner and group, all the permissions to the other users
+
+9-John_Doe | Setting the mode of the file hello to : -rwxr-x-wx
