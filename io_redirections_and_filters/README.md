@@ -1,19 +1,21 @@
-0-hello_world | Printing "Hello, World", followed by a new line to the standard output
+0-hello_world | Prints "Hello, World", followed by a new line to the standard output
 
-1-confused_smiley | Displaying a confused smiley "(Ôo)'
+1-confused_smiley | Displays a confused smiley "(Ôo)'
 
-2-hellofile | Displaying the content of the /etc/passwd file
+2-hellofile | Displays the content of the /etc/passwd file
 
-3-twofiles | Displaying the content of /etc/passwd and /etc/hosts files
+3-twofiles | Displays the content of /etc/passwd and /etc/hosts files
 
-4-lastlines | Displaying the last 10 lines of /etc/passwd
+4-lastlines | Displays the last 10 lines of /etc/passwd
 
-5-firstlines | Displaying the first 10 lines of /etc/passwd
+5-firstlines | Displays the first 10 lines of /etc/passwd
 
-6-third_line | Displaying the third line of the file iacta
+6-third_line | Displays the third line of the file iacta
 
-7-file | Creating a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:\) containing the text Best School ending by a new line
+7-file | Creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:\) containing the text Best School ending by a new line
 
-8-cwd_state | Writing into the file ls_cwd_content the result of the command ls -la
+8-cwd_state | Writes into the file ls_cwd_content the result of the command ls -la
 
-9-duplicate_last_line | Duplicating the last line of the file iacta
+9-duplicate_last_line | Duplicates the last line of the file iacta
+
+10-no_more_js | Deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
